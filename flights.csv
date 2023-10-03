@@ -1,0 +1,501 @@
+Start,Destination,Departure Time,Arrival Time,Flight Duration,Price,No of Stops,Layovers,Operator,Source,Flight Hours,Layover Duration
+Helsinki,London Stansted,22:10:00,23:20:00,3h 10m,27.259999999999998,0,[],Ryanair,Kayak,3,0
+Helsinki,London Stansted,22:10:00,23:20:00,3h 10m,26.32,0,[],Ryanair,Kayak,3,0
+Helsinki,London Gatwick,09:50:00,11:00:00,3h 10m,47.94,0,[],Norwegian,Kayak,3,0
+Helsinki,London Heathrow,07:50:00,09:10:00,3h 20m,127.83999999999999,0,[],Finnair,Kayak,3,0
+Helsinki,London Heathrow,14:00:00,15:15:00,3h 15m,127.83999999999999,0,[],Finnair,Kayak,3,0
+Helsinki,London Heathrow,16:00:00,17:00:00,3h 00m,138.17999999999998,0,[],Finnair,Kayak,3,0
+Helsinki,London Heathrow,19:35:00,20:40:00,3h 05m,147.57999999999998,0,[],Finnair,Kayak,3,0
+Helsinki,London Heathrow,11:05:00,14:35:00,5h 30m,51.699999999999996,1,"[{'Duration': 1, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Kayak,5,1
+Helsinki,London Heathrow,16:00:00,17:00:00,3h 00m,183.29999999999998,0,[],British,Kayak,3,0
+Helsinki,London Heathrow,19:35:00,20:40:00,3h 05m,183.29999999999998,0,[],British,Kayak,3,0
+Helsinki,London Heathrow,07:50:00,09:10:00,3h 20m,183.29999999999998,0,[],British,Kayak,3,0
+Helsinki,London Heathrow,14:00:00,15:15:00,3h 15m,183.29999999999998,0,[],British,Kayak,3,0
+Helsinki,London Heathrow,18:20:00,21:40:00,5h 20m,62.04,1,"[{'Duration': 1, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,5,1
+Helsinki,London Gatwick,14:10:00,16:55:00,4h 45m,76.14,1,"[{'Duration': 0, 'Location': 'Oslo Gardermoen'}]",Norwegian,Kayak,4,0
+Helsinki,London Gatwick,05:20:00,08:40:00,5h 20m,77.08,1,"[{'Duration': 1, 'Location': 'Riga Intl'}]",airBaltic,Kayak,5,1
+Helsinki,London Heathrow,11:05:00,16:25:00,7h 20m,51.699999999999996,1,"[{'Duration': 3, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Kayak,7,3
+Helsinki,London Heathrow,11:05:00,18:30:00,9h 25m,51.699999999999996,1,"[{'Duration': 5, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Kayak,9,5
+Helsinki,London Heathrow,14:00:00,17:45:00,5h 45m,109.97999999999999,1,"[{'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,5,1
+Helsinki,London Stansted,08:40:00,12:25:00,5h 45m,105.28,1,"[{'Duration': 1, 'Location': 'Riga Intl'}]",airBaltic,Kayak,5,1
+Helsinki,London Gatwick,14:00:00,17:10:00,5h 10m,125.96,1,"[{'Duration': 0, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,5,0
+Helsinki,London Heathrow,10:05:00,16:00:00,7h 55m,78.96,1,"[{'Duration': 4, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,7,4
+Helsinki,London Gatwick,14:10:00,20:10:00,8h 00m,84.6,1,"[{'Duration': 4, 'Location': 'Oslo Gardermoen'}]",Norwegian,Kayak,8,4
+Helsinki,London Heathrow,10:05:00,17:40:00,9h 35m,62.98,1,"[{'Duration': 5, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,9,5
+Helsinki,London Heathrow,14:00:00,18:45:00,6h 45m,109.97999999999999,1,"[{'Duration': 2, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,6,2
+Helsinki,London City,07:00:00,09:30:00,4h 30m,167.32,1,"[{'Duration': 0, 'Location': 'Amsterdam Schiphol'}]",KLM,Kayak,4,0
+Helsinki,London Stansted,19:45:00,23:40:00,5h 55m,125.96,1,"[{'Duration': 2, 'Location': 'Stockholm Arlanda'}]",Norwegian,Kayak,5,2
+Helsinki,London Heathrow,18:10:00,20:50:00,4h 40m,167.32,1,"[{'Duration': 0, 'Location': 'Amsterdam Schiphol'}]",KLM,Kayak,4,0
+Helsinki,London Heathrow,14:10:00,18:30:00,6h 20m,118.44,1,"[{'Duration': 2, 'Location': 'Oslo Gardermoen'}]",Norwegian,Kayak,6,2
+Helsinki,London Heathrow,07:05:00,10:45:00,5h 40m,145.7,1,"[{'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,5,1
+Helsinki,London Gatwick,08:40:00,16:45:00,10h 05m,77.08,1,"[{'Duration': 6, 'Location': 'Riga Intl'}]",airBaltic,Kayak,10,6
+Helsinki,London Heathrow,13:30:00,17:00:00,5h 30m,165.44,1,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,5,1
+Helsinki,London Heathrow,13:55:00,17:00:00,5h 05m,167.32,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",KLM,Kayak,5,1
+Helsinki,London Heathrow,16:25:00,19:55:00,5h 30m,165.44,1,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,5,1
+Helsinki,London Heathrow,10:40:00,13:50:00,5h 10m,167.32,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",KLM,Kayak,5,1
+Helsinki,London Heathrow,11:05:00,21:35:00,12h 30m,67.67999999999999,1,"[{'Duration': 8, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Kayak,12,8
+Helsinki,London City,14:00:00,17:40:00,5h 40m,156.98,1,"[{'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,5,1
+Helsinki,London City,13:55:00,17:20:00,5h 25m,167.32,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",KLM,Kayak,5,1
+Helsinki,London Stansted,11:05:00,16:30:00,7h 25m,109.97999999999999,1,"[{'Duration': 3, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Kayak,7,3
+Helsinki,London Stansted,08:40:00,14:35:00,7h 55m,106.22,1,"[{'Duration': 4, 'Location': 'Riga Intl'}]",airBaltic,Kayak,7,4
+Helsinki,London Stansted,12:05:00,16:30:00,6h 25m,134.42,1,"[{'Duration': 2, 'Location': 'Oslo Gardermoen'}]",Finnair,Kayak,6,2
+Helsinki,London Heathrow,17:40:00,22:15:00,6h 35m,141.0,1,"[{'Duration': 2, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,6,2
+Helsinki,London Heathrow,13:30:00,17:55:00,6h 25m,165.44,1,"[{'Duration': 2, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,6,2
+Helsinki,London Heathrow,14:00:00,20:45:00,8h 45m,109.97999999999999,1,"[{'Duration': 4, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,8,4
+Helsinki,London Heathrow,16:25:00,21:20:00,6h 55m,165.44,1,"[{'Duration': 3, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,6,3
+Helsinki,London Stansted,05:20:00,12:25:00,9h 05m,105.28,1,"[{'Duration': 5, 'Location': 'Riga Intl'}]",airBaltic,Kayak,9,5
+Helsinki,London Heathrow,10:05:00,19:30:00,11h 25m,101.52,1,"[{'Duration': 7, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,11,7
+Helsinki,London Heathrow,06:30:00,16:00:00,11h 30m,101.52,1,"[{'Duration': 7, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,11,7
+Helsinki,London Heathrow,15:30:00,21:35:00,8h 05m,114.67999999999999,2,"[{'Duration': 1, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Oslo Gardermoen'}]",airBaltic,Kayak,8,2
+Helsinki,London Stansted,16:40:00,23:40:00,9h 00m,125.96,1,"[{'Duration': 5, 'Location': 'Stockholm Arlanda'}]",Norwegian,Kayak,9,5
+Helsinki,London Stansted,08:40:00,15:45:00,9h 05m,118.44,2,"[{'Duration': 1, 'Location': 'Riga Intl'}, {'Duration': 2, 'Location': 'Dublin'}]",airBaltic,Kayak,9,3
+Helsinki,London Gatwick,07:40:00,16:55:00,11h 15m,106.22,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 5, 'Location': 'Oslo Gardermoen'}]",Norwegian,Kayak,11,6
+Helsinki,London Gatwick,11:05:00,16:55:00,7h 50m,119.38,1,"[{'Duration': 3, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Kayak,7,3
+Helsinki,London Stansted,12:05:00,16:30:00,6h 25m,141.0,1,"[{'Duration': 2, 'Location': 'Oslo Gardermoen'}]",Finnair,Kayak,6,2
+Helsinki,London Stansted,08:40:00,18:10:00,11h 30m,106.22,1,"[{'Duration': 7, 'Location': 'Riga Intl'}]",airBaltic,Kayak,11,7
+Helsinki,London Stansted,16:25:00,23:10:00,8h 45m,110.91999999999999,2,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}, {'Duration': 3, 'Location': 'Billund'}]",Scandinavian,Kayak,8,3
+Helsinki,London Gatwick,07:40:00,13:25:00,7h 45m,161.67999999999998,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Kastrup Copenhagen'}]",Norwegian,Kayak,7,3
+Helsinki,London Heathrow,07:00:00,10:45:00,5h 45m,167.32,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",KLM,Kayak,5,1
+Helsinki,London Stansted,19:40:00,22:35:00,4h 55m,161.67999999999998,1,"[{'Duration': 1, 'Location': 'Tallinn Ulemiste'}]",Finnair,Kayak,4,1
+Helsinki,London Heathrow,14:00:00,22:15:00,10h 15m,112.8,1,"[{'Duration': 5, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,10,5
+Helsinki,London Stansted,11:10:00,20:40:00,11h 30m,107.16,1,"[{'Duration': 6, 'Location': 'Bergamo Orio Al Serio'}]",Ryanair,Kayak,11,6
+Helsinki,London Stansted,08:40:00,16:45:00,10h 05m,122.19999999999999,2,"[{'Duration': 1, 'Location': 'Riga Intl'}, {'Duration': 3, 'Location': 'Dublin'}]",airBaltic,Kayak,10,4
+Helsinki,London Heathrow,07:05:00,12:45:00,7h 40m,143.82,1,"[{'Duration': 3, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,7,3
+Helsinki,London Stansted,07:45:00,12:25:00,6h 40m,139.12,1,"[{'Duration': 2, 'Location': 'Riga Intl'}]",Finnair,Kayak,6,2
+Helsinki,London Gatwick,07:05:00,10:35:00,5h 30m,171.07999999999998,1,"[{'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,5,1
+Helsinki,London Stansted,11:10:00,16:25:00,7h 15m,160.73999999999998,1,"[{'Duration': 1, 'Location': 'Bergamo Orio Al Serio'}]",Ryanair,Kayak,7,1
+Helsinki,London Gatwick,12:00:00,16:45:00,6h 45m,140.06,1,"[{'Duration': 2, 'Location': 'Riga Intl'}]",Finnair,Kayak,6,2
+Helsinki,London Heathrow,13:30:00,19:55:00,8h 25m,165.44,1,"[{'Duration': 4, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,8,4
+Helsinki,London Heathrow,14:10:00,21:35:00,9h 25m,108.1,1,"[{'Duration': 5, 'Location': 'Oslo Gardermoen'}]",Norwegian,Kayak,9,5
+Helsinki,London Gatwick,09:15:00,12:20:00,5h 05m,201.16,1,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}]",Norwegian,Kayak,5,1
+Helsinki,London Stansted,06:30:00,11:20:00,6h 50m,170.14,1,"[{'Duration': 3, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,6,3
+Helsinki,London Stansted,14:10:00,23:10:00,11h 00m,117.5,2,"[{'Duration': 3, 'Location': 'Oslo Gardermoen'}, {'Duration': 3, 'Location': 'Billund'}]",Norwegian,Kayak,11,6
+Helsinki,London Heathrow,10:15:00,17:00:00,8h 45m,165.44,1,"[{'Duration': 5, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,8,5
+Helsinki,London Gatwick,16:00:00,20:10:00,6h 10m,157.92,1,"[{'Duration': 2, 'Location': 'Oslo Gardermoen'}]",Finnair,Kayak,6,2
+Helsinki,London Heathrow,16:40:00,21:35:00,6h 55m,148.51999999999998,2,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}, {'Duration': 1, 'Location': 'Oslo Gardermoen'}]",Norwegian,Kayak,6,1
+Helsinki,London Heathrow,07:05:00,14:45:00,9h 40m,135.35999999999999,1,"[{'Duration': 5, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,9,5
+Helsinki,London Southend,06:30:00,11:30:00,7h 00m,149.45999999999998,2,"[{'Duration': 0, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Kayak,7,1
+Helsinki,London Gatwick,10:05:00,13:25:00,5h 20m,173.89999999999998,1,"[{'Duration': 1, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,5,1
+Helsinki,London Heathrow,10:15:00,17:55:00,9h 40m,165.44,1,"[{'Duration': 5, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,9,5
+Helsinki,London Stansted,12:00:00,18:10:00,8h 10m,140.06,1,"[{'Duration': 4, 'Location': 'Riga Intl'}]",Finnair,Kayak,8,4
+Helsinki,London Heathrow,13:30:00,21:20:00,9h 50m,165.44,1,"[{'Duration': 6, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,9,6
+Helsinki,London Gatwick,18:20:00,21:45:00,5h 25m,176.72,1,"[{'Duration': 1, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,5,1
+Helsinki,London Southend,08:15:00,11:30:00,5h 15m,178.6,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",Finnair,Kayak,5,1
+Helsinki,London Gatwick,07:40:00,12:20:00,6h 40m,200.22,1,"[{'Duration': 2, 'Location': 'Stockholm Arlanda'}]",Norwegian,Kayak,6,2
+Helsinki,London Heathrow,16:25:00,21:40:00,7h 15m,160.73999999999998,2,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,7,2
+Helsinki,London Gatwick,06:20:00,10:25:00,6h 05m,171.07999999999998,1,"[{'Duration': 2, 'Location': 'Václav Havel Prague'}]",Finnair,Kayak,6,2
+Helsinki,London Stansted,05:20:00,12:10:00,8h 50m,142.88,2,"[{'Duration': 3, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Gdansk Rebiechowo'}]",airBaltic,Kayak,8,4
+Helsinki,London Stansted,17:25:00,22:35:00,7h 10m,161.67999999999998,1,"[{'Duration': 3, 'Location': 'Tallinn Ulemiste'}]",Finnair,Kayak,7,3
+Helsinki,London Heathrow,16:40:00,19:55:00,5h 15m,187.06,1,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}]",Norwegian,Kayak,5,1
+Helsinki,London Southend,15:30:00,19:45:00,6h 15m,173.89999999999998,2,"[{'Duration': 0, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",airBaltic,Kayak,6,1
+Helsinki,London Heathrow,07:00:00,12:45:00,7h 45m,173.89999999999998,2,"[{'Duration': 1, 'Location': 'Munich Franz Josef Strauss'}, {'Duration': 0, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,7,1
+Helsinki,London Luton,07:25:00,12:55:00,7h 30m,161.67999999999998,2,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Kayak,7,2
+Helsinki,London Heathrow,12:45:00,18:45:00,8h 00m,173.89999999999998,2,"[{'Duration': 1, 'Location': 'Munich Franz Josef Strauss'}, {'Duration': 0, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,8,1
+Helsinki,London Stansted,16:45:00,20:50:00,6h 05m,183.29999999999998,1,"[{'Duration': 1, 'Location': 'Edinburgh Turnhouse'}]",Finnair,Kayak,6,1
+Helsinki,London Gatwick,06:30:00,10:45:00,6h 15m,180.48,1,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,6,2
+Helsinki,London Stansted,14:40:00,22:35:00,9h 55m,139.12,1,"[{'Duration': 6, 'Location': 'Tallinn Ulemiste'}]",Finnair,Kayak,9,6
+Helsinki,London Stansted,13:35:00,20:30:00,8h 55m,149.45999999999998,2,"[{'Duration': 2, 'Location': 'Stockholm Arlanda'}, {'Duration': 1, 'Location': 'Gdansk Rebiechowo'}]",Finnair,Kayak,8,3
+Helsinki,London Heathrow,07:05:00,15:45:00,10h 40m,148.51999999999998,1,"[{'Duration': 6, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,10,6
+Helsinki,London Heathrow,07:25:00,17:00:00,11h 35m,165.44,1,"[{'Duration': 7, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,11,7
+Helsinki,London Gatwick,06:30:00,11:25:00,6h 55m,178.6,1,"[{'Duration': 3, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,6,3
+Helsinki,London Heathrow,10:15:00,19:55:00,11h 40m,165.44,1,"[{'Duration': 7, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,11,7
+Helsinki,London City,13:55:00,16:35:00,4h 40m,225.6,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",KLM,Kayak,4,1
+Helsinki,London Luton,16:45:00,21:00:00,6h 15m,189.88,1,"[{'Duration': 2, 'Location': 'Edinburgh Turnhouse'}]",Finnair,Kayak,6,2
+Helsinki,London Luton,08:40:00,16:35:00,9h 55m,169.2,2,"[{'Duration': 1, 'Location': 'Riga Intl'}, {'Duration': 3, 'Location': 'Dublin'}]",airBaltic,Kayak,9,4
+Helsinki,London Gatwick,09:15:00,16:20:00,9h 05m,200.22,1,"[{'Duration': 5, 'Location': 'Stockholm Arlanda'}]",Norwegian,Kayak,9,5
+Helsinki,London Luton,10:05:00,16:30:00,8h 25m,167.32,2,"[{'Duration': 1, 'Location': 'Kastrup Copenhagen'}, {'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Kayak,8,3
+Helsinki,London Luton,16:25:00,23:15:00,8h 50m,163.56,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Dublin'}]",Scandinavian,Kayak,8,3
+Helsinki,London Luton,05:20:00,10:30:00,7h 10m,163.56,2,"[{'Duration': 1, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",airBaltic,Kayak,7,2
+Helsinki,London Heathrow,07:25:00,17:55:00,12h 30m,165.44,1,"[{'Duration': 8, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,12,8
+Helsinki,London Luton,06:20:00,12:45:00,8h 25m,171.07999999999998,1,"[{'Duration': 4, 'Location': 'Václav Havel Prague'}]",Finnair,Kayak,8,4
+Helsinki,London Heathrow,07:05:00,16:45:00,11h 40m,148.51999999999998,1,"[{'Duration': 7, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,11,7
+Helsinki,London Luton,06:30:00,12:55:00,8h 25m,170.14,2,"[{'Duration': 0, 'Location': 'Kastrup Copenhagen'}, {'Duration': 3, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Kayak,8,3
+Helsinki,London Heathrow,10:05:00,16:45:00,8h 40m,214.32,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 0, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,8,2
+Helsinki,London Heathrow,10:05:00,16:45:00,8h 40m,214.32,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,8,3
+Helsinki,London Luton,14:40:00,23:15:00,10h 35m,146.64,2,"[{'Duration': 2, 'Location': 'Tallinn Ulemiste'}, {'Duration': 3, 'Location': 'Dublin'}]",Finnair,Kayak,10,5
+Helsinki,London Gatwick,07:05:00,17:10:00,12h 05m,148.51999999999998,1,"[{'Duration': 7, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,12,7
+Helsinki,London Southend,05:20:00,11:30:00,8h 10m,157.92,2,"[{'Duration': 1, 'Location': 'Riga Intl'}, {'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",airBaltic,Kayak,8,3
+Helsinki,London Luton,15:30:00,21:15:00,7h 45m,184.23999999999998,2,"[{'Duration': 0, 'Location': 'Riga Intl'}, {'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",airBaltic,Kayak,7,2
+Helsinki,London Heathrow,10:05:00,19:15:00,11h 10m,187.06,2,"[{'Duration': 4, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Zurich'}]",SWISS,Kayak,11,5
+Helsinki,London Southend,16:20:00,19:45:00,5h 25m,217.14,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",Finnair,Kayak,5,1
+Helsinki,London Gatwick,10:05:00,17:10:00,9h 05m,214.32,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 2, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,9,4
+Helsinki,London Gatwick,10:05:00,17:10:00,9h 05m,214.32,2,"[{'Duration': 3, 'Location': 'Kastrup Copenhagen'}, {'Duration': 0, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,9,3
+Helsinki,London Stansted,13:40:00,18:10:00,6h 30m,202.1,2,"[{'Duration': 1, 'Location': 'Tallinn Ulemiste'}, {'Duration': 1, 'Location': 'Riga Intl'}]",Multiple,Kayak,6,2
+Helsinki,London Southend,11:05:00,19:45:00,10h 40m,153.22,2,"[{'Duration': 4, 'Location': 'Oslo Gardermoen'}, {'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Kayak,10,5
+Helsinki,London Luton,07:05:00,11:25:00,6h 20m,210.56,1,"[{'Duration': 2, 'Location': 'Berlin Brandenburg'}]",Finnair,Kayak,6,2
+Helsinki,London Heathrow,05:20:00,13:05:00,9h 45m,176.72,2,"[{'Duration': 0, 'Location': 'Riga Intl'}, {'Duration': 4, 'Location': 'Hamburg'}]",airBaltic,Kayak,9,4
+Helsinki,London Southend,14:10:00,19:45:00,7h 35m,196.45999999999998,2,"[{'Duration': 0, 'Location': 'Oslo Gardermoen'}, {'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",Norwegian,Kayak,7,2
+Helsinki,London Luton,12:15:00,16:40:00,6h 25m,215.26,1,"[{'Duration': 2, 'Location': 'Paris Charles de Gaulle'}]",Finnair,Kayak,6,2
+Helsinki,London Gatwick,07:40:00,16:20:00,10h 40m,201.16,1,"[{'Duration': 6, 'Location': 'Stockholm Arlanda'}]",Norwegian,Kayak,10,6
+Helsinki,London Luton,09:40:00,12:45:00,5h 05m,235.0,1,"[{'Duration': 1, 'Location': 'Tallinn Ulemiste'}]",Finnair,Kayak,5,1
+Helsinki,London Heathrow,06:30:00,14:45:00,10h 15m,214.32,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 2, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,10,4
+Helsinki,London Luton,07:25:00,16:30:00,11h 05m,158.85999999999999,2,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}, {'Duration': 5, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Kayak,11,5
+Helsinki,London Heathrow,06:30:00,14:25:00,9h 55m,180.48,2,"[{'Duration': 3, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Dublin'}]",Scandinavian,Kayak,9,4
+Helsinki,London City,07:05:00,16:40:00,11h 35m,173.89999999999998,1,"[{'Duration': 7, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,11,7
+Helsinki,London Luton,05:20:00,11:25:00,8h 05m,180.48,2,"[{'Duration': 0, 'Location': 'Riga Intl'}, {'Duration': 2, 'Location': 'Berlin Brandenburg'}]",airBaltic,Kayak,8,2
+Helsinki,London City,10:05:00,18:35:00,10h 30m,217.14,2,"[{'Duration': 4, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Zurich'}]",SWISS,Kayak,10,5
+Helsinki,London Gatwick,20:30:00,07:30:00,13h 00m,172.95999999999998,1,"[{'Duration': 8, 'Location': 'Paris Charles de Gaulle'}]",Finnair,Kayak,13,8
+Helsinki,London City,07:25:00,13:45:00,8h 20m,205.85999999999999,2,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}, {'Duration': 3, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Kayak,8,3
+Helsinki,London Heathrow,22:45:00,07:40:00,10h 55m,159.79999999999998,1,"[{'Duration': 7, 'Location': 'Kastrup Copenhagen'}]",Finnair,Kayak,10,7
+Helsinki,London City,10:05:00,16:40:00,8h 35m,245.33999999999997,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,8,3
+Helsinki,London Stansted,05:20:00,11:40:00,8h 20m,182.35999999999999,3,"[{'Duration': 0, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Oslo Gardermoen'}, {'Duration': 0, 'Location': 'Bergen Flesland'}]",Multiple,Kayak,8,1
+Helsinki,London Heathrow,06:30:00,15:45:00,11h 15m,214.32,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 3, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,11,5
+Helsinki,London Southend,10:05:00,19:45:00,11h 40m,166.38,2,"[{'Duration': 1, 'Location': 'Kastrup Copenhagen'}, {'Duration': 5, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Kayak,11,6
+Helsinki,London Gatwick,10:05:00,17:10:00,9h 05m,245.33999999999997,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,9,3
+Helsinki,London City,14:40:00,21:35:00,8h 55m,203.04,2,"[{'Duration': 2, 'Location': 'Tallinn Ulemiste'}, {'Duration': 1, 'Location': 'Dublin'}]",Multiple,Kayak,8,3
+Helsinki,London Luton,11:05:00,21:15:00,12h 10m,163.56,2,"[{'Duration': 4, 'Location': 'Oslo Gardermoen'}, {'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Kayak,12,6
+Helsinki,London Gatwick,23:40:00,08:35:00,10h 55m,163.56,1,"[{'Duration': 7, 'Location': 'Stockholm Arlanda'}]",Finnair,Kayak,10,7
+Helsinki,London Luton,06:30:00,16:35:00,12h 05m,169.2,2,"[{'Duration': 3, 'Location': 'Kastrup Copenhagen'}, {'Duration': 3, 'Location': 'Dublin'}]",Scandinavian,Kayak,12,6
+Helsinki,London Heathrow,07:00:00,14:45:00,9h 45m,218.07999999999998,2,"[{'Duration': 2, 'Location': 'Munich Franz Josef Strauss'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,9,3
+Helsinki,London Heathrow,07:00:00,14:45:00,9h 45m,218.07999999999998,2,"[{'Duration': 1, 'Location': 'Munich Franz Josef Strauss'}, {'Duration': 2, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,9,3
+Helsinki,London Heathrow,12:45:00,20:45:00,10h 00m,218.07999999999998,2,"[{'Duration': 2, 'Location': 'Munich Franz Josef Strauss'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,10,3
+Helsinki,London Heathrow,12:45:00,20:45:00,10h 00m,218.07999999999998,2,"[{'Duration': 1, 'Location': 'Munich Franz Josef Strauss'}, {'Duration': 2, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,10,3
+Helsinki,London Luton,07:05:00,16:35:00,11h 30m,186.11999999999998,2,"[{'Duration': 3, 'Location': 'Rovaniemi'}, {'Duration': 1, 'Location': 'Dublin'}]",Finnair,Kayak,11,4
+Helsinki,London Heathrow,07:05:00,17:45:00,12h 40m,194.57999999999998,1,"[{'Duration': 8, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,12,8
+Helsinki,London Heathrow,05:20:00,12:45:00,9h 25m,201.16,3,"[{'Duration': 0, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Berlin Brandenburg'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",airBaltic,Kayak,9,2
+Helsinki,London City,06:30:00,16:40:00,12h 10m,245.33999999999997,2,"[{'Duration': 5, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,12,6
+Helsinki,London Heathrow,08:10:00,16:50:00,10h 40m,297.03999999999996,1,"[{'Duration': 6, 'Location': 'Manchester'}]",British,Kayak,10,6
+Helsinki,London Heathrow,23:40:00,09:05:00,11h 25m,229.35999999999999,1,"[{'Duration': 7, 'Location': 'Stockholm Arlanda'}]",Finnair,Kayak,11,7
+Helsinki,London Heathrow,08:10:00,16:00:00,9h 50m,313.02,1,"[{'Duration': 5, 'Location': 'Manchester'}]",British,Kayak,9,5
+Helsinki,London Heathrow,10:15:00,17:50:00,9h 35m,335.58,2,"[{'Duration': 3, 'Location': 'Stockholm Arlanda'}, {'Duration': 1, 'Location': 'Zurich'}]",SWISS,Kayak,9,4
+Helsinki,London Heathrow,10:15:00,17:50:00,9h 35m,337.46,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 3, 'Location': 'Zurich'}]",SWISS,Kayak,9,4
+Helsinki,London City,10:15:00,18:35:00,10h 20m,337.46,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 4, 'Location': 'Zurich'}]",SWISS,Kayak,10,5
+Helsinki,London City,10:15:00,18:35:00,10h 20m,337.46,2,"[{'Duration': 3, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Zurich'}]",SWISS,Kayak,10,5
+Helsinki,London Heathrow,10:15:00,19:15:00,11h 00m,337.46,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 4, 'Location': 'Zurich'}]",SWISS,Kayak,11,5
+Helsinki,London Heathrow,10:15:00,19:15:00,11h 00m,337.46,2,"[{'Duration': 3, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Zurich'}]",SWISS,Kayak,11,5
+Helsinki,London City,07:05:00,17:40:00,12h 35m,333.7,1,"[{'Duration': 8, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,12,8
+Helsinki,London Heathrow,12:45:00,17:05:00,6h 20m,386.34,1,"[{'Duration': 1, 'Location': 'Munich Franz Josef Strauss'}]",Lufthansa,Kayak,6,1
+Helsinki,London Heathrow,08:10:00,13:05:00,6h 55m,410.78,1,"[{'Duration': 2, 'Location': 'Manchester'}]",British,Kayak,6,2
+Helsinki,London Heathrow,10:15:00,16:20:00,8h 05m,395.73999999999995,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 1, 'Location': 'Zurich'}]",SWISS,Kayak,8,2
+Helsinki,London Heathrow,08:10:00,18:20:00,12h 10m,346.85999999999996,1,"[{'Duration': 8, 'Location': 'Manchester'}]",British,Kayak,12,8
+Helsinki,London City,07:25:00,17:40:00,12h 15m,320.53999999999996,2,"[{'Duration': 6, 'Location': 'Stockholm Arlanda'}, {'Duration': 0, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,12,6
+Helsinki,London Gatwick,10:05:00,16:20:00,8h 15m,393.85999999999996,1,"[{'Duration': 4, 'Location': 'Stockholm Arlanda'}]",CitizenPlane,Kayak,8,4
+Helsinki,London Heathrow,12:45:00,18:35:00,7h 50m,386.34,1,"[{'Duration': 2, 'Location': 'Munich Franz Josef Strauss'}]",Lufthansa,Kayak,7,2
+Helsinki,London Heathrow,07:05:00,17:05:00,12h 00m,331.82,2,"[{'Duration': 2, 'Location': 'Frankfurt am Main'}, {'Duration': 4, 'Location': 'Brussels Bruxelles-National'}]",Brussels,Kayak,12,6
+Helsinki,London Heathrow,07:00:00,15:50:00,10h 50m,388.21999999999997,1,"[{'Duration': 6, 'Location': 'Munich Franz Josef Strauss'}]",Lufthansa,Kayak,10,6
+Helsinki,London Heathrow,07:05:00,17:05:00,12h 00m,362.84,2,"[{'Duration': 4, 'Location': 'Frankfurt am Main'}, {'Duration': 2, 'Location': 'Brussels Bruxelles-National'}]",Brussels,Kayak,12,6
+Helsinki,London Heathrow,06:30:00,16:20:00,11h 50m,403.26,2,"[{'Duration': 0, 'Location': 'Kastrup Copenhagen'}, {'Duration': 5, 'Location': 'Zurich'}]",SWISS,Kayak,11,5
+Helsinki,London Heathrow,07:00:00,13:00:00,8h 00m,444.61999999999995,1,"[{'Duration': 3, 'Location': 'Munich Franz Josef Strauss'}]",Lufthansa,Kayak,8,3
+Helsinki,London Heathrow,06:30:00,16:05:00,11h 35m,431.46,2,"[{'Duration': 4, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Zagreb Franjo Tuđman'}]",Croatia,Kayak,11,5
+Helsinki,London Heathrow,10:15:00,18:45:00,10h 30m,431.46,2,"[{'Duration': 3, 'Location': 'Stockholm Arlanda'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Kayak,10,4
+Helsinki,London Heathrow,10:15:00,12:55:00,4h 40m,535.8,1,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,4,0
+Helsinki,London Heathrow,12:25:00,22:15:00,11h 50m,482.21999999999997,1,"[{'Duration': 3, 'Location': 'Istanbul'}]",Turkish,Kayak,11,3
+Helsinki,London Heathrow,07:25:00,12:55:00,7h 30m,535.8,1,"[{'Duration': 3, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Kayak,7,3
+Helsinki,London City,10:15:00,17:05:00,8h 50m,535.8,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Zurich'}]",SWISS,Kayak,8,3
+Helsinki,London Heathrow,07:55:00,18:50:00,12h 55m,470.0,2,"[{'Duration': 2, 'Location': 'Geneva Geneve-Cointrin'}, {'Duration': 2, 'Location': 'Madrid Barajas'}]",Iberia,Kayak,12,4
+Helsinki,London Heathrow,07:55:00,18:50:00,12h 55m,470.0,2,"[{'Duration': 4, 'Location': 'Geneva Geneve-Cointrin'}, {'Duration': 1, 'Location': 'Madrid Barajas'}]",Iberia,Kayak,12,5
+Helsinki,London Heathrow,07:55:00,17:15:00,11h 20m,518.88,2,"[{'Duration': 2, 'Location': 'Geneva Geneve-Cointrin'}, {'Duration': 1, 'Location': 'Madrid Barajas'}]",Iberia,Kayak,11,3
+Helsinki,London Heathrow,13:30:00,21:40:00,10h 10m,537.68,2,"[{'Duration': 2, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Zurich'}]",SWISS,Kayak,10,4
+Helsinki,London Heathrow,12:30:00,22:40:00,12h 10m,538.62,1,"[{'Duration': 4, 'Location': 'Lisbon Humberto Delgado'}]",TAP,Kayak,12,4
+Helsinki,London Heathrow,06:30:00,16:20:00,11h 50m,543.3199999999999,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 3, 'Location': 'Zurich'}]",SWISS,Kayak,11,5
+Helsinki,London City,06:30:00,17:05:00,12h 35m,543.3199999999999,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 4, 'Location': 'Zurich'}]",SWISS,Kayak,12,6
+Helsinki,London City,06:30:00,17:05:00,12h 35m,543.3199999999999,2,"[{'Duration': 0, 'Location': 'Kastrup Copenhagen'}, {'Duration': 6, 'Location': 'Zurich'}]",SWISS,Kayak,12,6
+Helsinki,London Heathrow,12:30:00,21:35:00,11h 05m,568.6999999999999,1,"[{'Duration': 3, 'Location': 'Lisbon Humberto Delgado'}]",TAP,Kayak,11,3
+Helsinki,London Heathrow,13:35:00,21:55:00,10h 20m,574.3399999999999,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 1, 'Location': 'Madrid Barajas'}]",Iberia,Kayak,10,2
+Helsinki,London Heathrow,06:30:00,13:00:00,8h 30m,626.04,2,"[{'Duration': 0, 'Location': 'Kastrup Copenhagen'}, {'Duration': 2, 'Location': 'Zurich'}]",SWISS,Kayak,8,2
+Helsinki,London Heathrow,10:15:00,16:25:00,8h 10m,642.9599999999999,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 1, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Kayak,8,2
+Helsinki,London Heathrow,13:30:00,18:30:00,7h 00m,642.9599999999999,2,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}, {'Duration': 1, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Kayak,7,1
+Helsinki,London Heathrow,13:30:00,21:40:00,10h 10m,636.38,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Vienna Intl'}]",Austrian,Kayak,10,3
+Helsinki,London Heathrow,07:55:00,18:15:00,12h 20m,580.92,2,"[{'Duration': 2, 'Location': 'Geneva Geneve-Cointrin'}, {'Duration': 1, 'Location': 'Madrid Barajas'}]",Iberia,Kayak,12,3
+Helsinki,London Heathrow,13:30:00,19:30:00,8h 00m,652.36,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,8,3
+Helsinki,London Heathrow,13:30:00,19:30:00,8h 00m,652.36,2,"[{'Duration': 2, 'Location': 'Stockholm Arlanda'}, {'Duration': 0, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Kayak,8,2
+Helsinki,London Stansted,22:10:00,23:20:00,3h 10m,34.78,0,[],Ryanair,Momondo,3,0
+Helsinki,London Stansted,22:10:00,23:20:00,3h 10m,33.839999999999996,0,[],Ryanair,Momondo,3,0
+Helsinki,London Gatwick,09:50:00,11:00:00,3h 10m,47.94,0,[],Norwegian,Momondo,3,0
+Helsinki,London Heathrow,16:00:00,17:00:00,3h 00m,108.1,0,[],Finnair,Momondo,3,0
+Helsinki,London Heathrow,19:35:00,20:40:00,3h 05m,108.1,0,[],Finnair,Momondo,3,0
+Helsinki,London Heathrow,07:50:00,09:10:00,3h 20m,119.38,0,[],Finnair,Momondo,3,0
+Helsinki,London Heathrow,14:00:00,15:15:00,3h 15m,119.38,0,[],Finnair,Momondo,3,0
+Helsinki,London Heathrow,11:05:00,14:35:00,5h 30m,51.699999999999996,1,"[{'Duration': 1, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Momondo,5,1
+Helsinki,London Heathrow,07:50:00,09:10:00,3h 20m,185.17999999999998,0,[],British,Momondo,3,0
+Helsinki,London Heathrow,16:00:00,17:00:00,3h 00m,185.17999999999998,0,[],British,Momondo,3,0
+Helsinki,London Heathrow,14:00:00,15:15:00,3h 15m,185.17999999999998,0,[],British,Momondo,3,0
+Helsinki,London Heathrow,19:35:00,20:40:00,3h 05m,185.17999999999998,0,[],British,Momondo,3,0
+Helsinki,London Gatwick,14:10:00,16:55:00,4h 45m,76.14,1,"[{'Duration': 0, 'Location': 'Oslo Gardermoen'}]",Norwegian,Momondo,4,0
+Helsinki,London Gatwick,05:20:00,08:40:00,5h 20m,77.08,1,"[{'Duration': 1, 'Location': 'Riga Intl'}]",airBaltic,Momondo,5,1
+Helsinki,London Heathrow,11:05:00,16:25:00,7h 20m,51.699999999999996,1,"[{'Duration': 3, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Momondo,7,3
+Helsinki,London Heathrow,18:20:00,21:40:00,5h 20m,78.96,1,"[{'Duration': 1, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Momondo,5,1
+Helsinki,London Heathrow,11:05:00,18:30:00,9h 25m,51.699999999999996,1,"[{'Duration': 5, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Momondo,9,5
+Helsinki,London Gatwick,14:00:00,17:10:00,5h 10m,122.19999999999999,1,"[{'Duration': 0, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,5,0
+Helsinki,London Heathrow,14:00:00,17:45:00,5h 45m,106.22,1,"[{'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,5,1
+Helsinki,London Stansted,08:40:00,12:25:00,5h 45m,105.28,1,"[{'Duration': 1, 'Location': 'Riga Intl'}]",airBaltic,Momondo,5,1
+Helsinki,London Heathrow,10:05:00,17:40:00,9h 35m,62.98,1,"[{'Duration': 5, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Momondo,9,5
+Helsinki,London Luton,09:40:00,12:50:00,5h 10m,135.35999999999999,1,"[{'Duration': 1, 'Location': 'Tallinn Ulemiste'}]",Finnair,Momondo,5,1
+Helsinki,London Heathrow,10:05:00,16:00:00,7h 55m,78.96,1,"[{'Duration': 4, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Momondo,7,4
+Helsinki,London City,07:00:00,09:30:00,4h 30m,167.32,1,"[{'Duration': 0, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,4,0
+Helsinki,London Gatwick,14:10:00,20:10:00,8h 00m,84.6,1,"[{'Duration': 4, 'Location': 'Oslo Gardermoen'}]",Norwegian,Momondo,8,4
+Helsinki,London Heathrow,18:10:00,20:50:00,4h 40m,167.32,1,"[{'Duration': 0, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,4,0
+Helsinki,London Stansted,19:45:00,23:40:00,5h 55m,125.96,1,"[{'Duration': 2, 'Location': 'Stockholm Arlanda'}]",Norwegian,Momondo,5,2
+Helsinki,London Heathrow,14:00:00,18:45:00,6h 45m,106.22,1,"[{'Duration': 2, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,6,2
+Helsinki,London Stansted,19:40:00,22:35:00,4h 55m,159.79999999999998,1,"[{'Duration': 1, 'Location': 'Tallinn Ulemiste'}]",Finnair,Momondo,4,1
+Helsinki,London Heathrow,13:55:00,17:00:00,5h 05m,167.32,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,5,1
+Helsinki,London City,14:00:00,17:40:00,5h 40m,143.82,1,"[{'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,5,1
+Helsinki,London Heathrow,13:30:00,17:00:00,5h 30m,165.44,1,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Momondo,5,1
+Helsinki,London Heathrow,14:10:00,18:30:00,6h 20m,118.44,1,"[{'Duration': 2, 'Location': 'Oslo Gardermoen'}]",Norwegian,Momondo,6,2
+Helsinki,London Heathrow,07:05:00,10:45:00,5h 40m,143.82,1,"[{'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,5,1
+Helsinki,London Heathrow,16:25:00,19:55:00,5h 30m,165.44,1,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Momondo,5,1
+Helsinki,London Gatwick,08:40:00,16:45:00,10h 05m,77.08,1,"[{'Duration': 6, 'Location': 'Riga Intl'}]",airBaltic,Momondo,10,6
+Helsinki,London Heathrow,10:40:00,13:50:00,5h 10m,167.32,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,5,1
+Helsinki,London City,13:55:00,17:20:00,5h 25m,167.32,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,5,1
+Helsinki,London Stansted,08:40:00,14:35:00,7h 55m,105.28,1,"[{'Duration': 4, 'Location': 'Riga Intl'}]",airBaltic,Momondo,7,4
+Helsinki,London Heathrow,17:40:00,22:15:00,6h 35m,141.0,1,"[{'Duration': 2, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,6,2
+Helsinki,London Heathrow,13:30:00,17:55:00,6h 25m,165.44,1,"[{'Duration': 2, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Momondo,6,2
+Helsinki,London Southend,08:15:00,11:30:00,5h 15m,173.89999999999998,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",Finnair,Momondo,5,1
+Helsinki,London Heathrow,14:00:00,20:45:00,8h 45m,106.22,1,"[{'Duration': 4, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,8,4
+Helsinki,London Stansted,11:05:00,16:30:00,7h 25m,119.38,1,"[{'Duration': 3, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Momondo,7,3
+Helsinki,London Stansted,07:45:00,12:25:00,6h 40m,139.12,1,"[{'Duration': 2, 'Location': 'Riga Intl'}]",Finnair,Momondo,6,2
+Helsinki,London Stansted,12:05:00,16:30:00,6h 25m,147.57999999999998,1,"[{'Duration': 2, 'Location': 'Oslo Gardermoen'}]",Finnair,Momondo,6,2
+Helsinki,London Gatwick,12:00:00,16:45:00,6h 45m,140.06,1,"[{'Duration': 2, 'Location': 'Riga Intl'}]",Finnair,Momondo,6,2
+Helsinki,London Gatwick,16:00:00,20:10:00,6h 10m,157.92,1,"[{'Duration': 2, 'Location': 'Oslo Gardermoen'}]",Finnair,Momondo,6,2
+Helsinki,London Heathrow,16:25:00,21:20:00,6h 55m,165.44,1,"[{'Duration': 3, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Momondo,6,3
+Helsinki,London Gatwick,11:05:00,16:55:00,7h 50m,119.38,1,"[{'Duration': 3, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Momondo,7,3
+Helsinki,London Stansted,16:25:00,23:10:00,8h 45m,110.91999999999999,2,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}, {'Duration': 3, 'Location': 'Billund'}]",Scandinavian,Momondo,8,3
+Helsinki,London Heathrow,15:30:00,21:35:00,8h 05m,114.67999999999999,2,"[{'Duration': 1, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Oslo Gardermoen'}]",airBaltic,Momondo,8,2
+Helsinki,London Southend,06:30:00,11:30:00,7h 00m,144.76,2,"[{'Duration': 0, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Momondo,7,1
+Helsinki,London Heathrow,10:05:00,19:30:00,11h 25m,101.52,1,"[{'Duration': 7, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Momondo,11,7
+Helsinki,London Gatwick,07:05:00,10:35:00,5h 30m,170.14,1,"[{'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,5,1
+Helsinki,London Gatwick,06:20:00,10:25:00,6h 05m,167.32,1,"[{'Duration': 2, 'Location': 'Václav Havel Prague'}]",Finnair,Momondo,6,2
+Helsinki,London Heathrow,07:00:00,10:45:00,5h 45m,167.32,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,5,1
+Helsinki,London Stansted,16:40:00,23:40:00,9h 00m,125.96,1,"[{'Duration': 5, 'Location': 'Stockholm Arlanda'}]",Norwegian,Momondo,9,5
+Helsinki,London Gatwick,09:15:00,12:20:00,5h 05m,201.16,1,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}]",Norwegian,Momondo,5,1
+Helsinki,London Stansted,12:00:00,18:10:00,8h 10m,140.06,1,"[{'Duration': 4, 'Location': 'Riga Intl'}]",Finnair,Momondo,8,4
+Helsinki,London Stansted,08:40:00,15:45:00,9h 05m,123.13999999999999,2,"[{'Duration': 1, 'Location': 'Riga Intl'}, {'Duration': 2, 'Location': 'Dublin'}]",airBaltic,Momondo,9,3
+Helsinki,London Heathrow,07:05:00,12:45:00,7h 40m,142.88,1,"[{'Duration': 3, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,7,3
+Helsinki,London Heathrow,11:05:00,21:35:00,12h 30m,67.67999999999999,1,"[{'Duration': 8, 'Location': 'Oslo Gardermoen'}]",Scandinavian,Momondo,12,8
+Helsinki,London Stansted,17:25:00,22:35:00,7h 10m,159.79999999999998,1,"[{'Duration': 3, 'Location': 'Tallinn Ulemiste'}]",Finnair,Momondo,7,3
+Helsinki,London Gatwick,07:40:00,13:25:00,7h 45m,160.73999999999998,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Kastrup Copenhagen'}]",Norwegian,Momondo,7,3
+Helsinki,London Gatwick,07:40:00,16:55:00,11h 15m,106.22,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 5, 'Location': 'Oslo Gardermoen'}]",Norwegian,Momondo,11,6
+Helsinki,London Stansted,05:20:00,12:25:00,9h 05m,105.28,1,"[{'Duration': 5, 'Location': 'Riga Intl'}]",airBaltic,Momondo,9,5
+Helsinki,London Southend,15:30:00,19:45:00,6h 15m,173.89999999999998,2,"[{'Duration': 0, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",airBaltic,Momondo,6,1
+Helsinki,London Stansted,11:10:00,16:25:00,7h 15m,160.73999999999998,1,"[{'Duration': 1, 'Location': 'Bergamo Orio Al Serio'}]",Ryanair,Momondo,7,1
+Helsinki,London Heathrow,14:00:00,22:15:00,10h 15m,109.03999999999999,1,"[{'Duration': 5, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,10,5
+Helsinki,London Heathrow,13:30:00,19:55:00,8h 25m,165.44,1,"[{'Duration': 4, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Momondo,8,4
+Helsinki,London Luton,07:25:00,12:55:00,7h 30m,155.1,2,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Momondo,7,2
+Helsinki,London Stansted,06:30:00,11:20:00,6h 50m,170.14,1,"[{'Duration': 3, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Momondo,6,3
+Helsinki,London Heathrow,13:55:00,17:55:00,6h 00m,178.6,1,"[{'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,6,2
+Helsinki,London Heathrow,10:15:00,17:00:00,8h 45m,165.44,1,"[{'Duration': 5, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Momondo,8,5
+Helsinki,London Heathrow,06:30:00,16:00:00,11h 30m,122.19999999999999,1,"[{'Duration': 7, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Momondo,11,7
+Helsinki,London Heathrow,14:10:00,21:35:00,9h 25m,108.1,1,"[{'Duration': 5, 'Location': 'Oslo Gardermoen'}]",Norwegian,Momondo,9,5
+Helsinki,London City,13:55:00,18:25:00,6h 30m,178.6,1,"[{'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,6,2
+Helsinki,London Heathrow,16:40:00,21:35:00,6h 55m,148.51999999999998,2,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}, {'Duration': 1, 'Location': 'Oslo Gardermoen'}]",Norwegian,Momondo,6,1
+Helsinki,London Stansted,08:40:00,16:45:00,10h 05m,128.78,2,"[{'Duration': 1, 'Location': 'Riga Intl'}, {'Duration': 3, 'Location': 'Dublin'}]",airBaltic,Momondo,10,4
+Helsinki,London Gatwick,07:40:00,12:20:00,6h 40m,200.22,1,"[{'Duration': 2, 'Location': 'Stockholm Arlanda'}]",Norwegian,Momondo,6,2
+Helsinki,London Stansted,14:10:00,23:10:00,11h 00m,117.5,2,"[{'Duration': 3, 'Location': 'Oslo Gardermoen'}, {'Duration': 3, 'Location': 'Billund'}]",Norwegian,Momondo,11,6
+Helsinki,London Heathrow,07:05:00,14:45:00,9h 40m,134.42,1,"[{'Duration': 5, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,9,5
+Helsinki,London Stansted,14:40:00,22:35:00,9h 55m,138.17999999999998,1,"[{'Duration': 6, 'Location': 'Tallinn Ulemiste'}]",Finnair,Momondo,9,6
+Helsinki,London Heathrow,10:15:00,17:55:00,9h 40m,165.44,1,"[{'Duration': 5, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Momondo,9,5
+Helsinki,London Heathrow,16:40:00,19:55:00,5h 15m,187.06,1,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}]",Norwegian,Momondo,5,1
+Helsinki,London Heathrow,16:25:00,21:40:00,7h 15m,160.73999999999998,2,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Momondo,7,2
+Helsinki,London Luton,06:30:00,12:55:00,8h 25m,163.56,2,"[{'Duration': 0, 'Location': 'Kastrup Copenhagen'}, {'Duration': 3, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Momondo,8,3
+Helsinki,London Heathrow,13:55:00,19:15:00,7h 20m,178.6,1,"[{'Duration': 3, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,7,3
+Helsinki,London Heathrow,10:40:00,16:05:00,7h 25m,178.6,1,"[{'Duration': 3, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,7,3
+Helsinki,London Luton,13:35:00,21:00:00,9h 25m,152.28,2,"[{'Duration': 2, 'Location': 'Stockholm Arlanda'}, {'Duration': 1, 'Location': 'Gdansk Rebiechowo'}]",Multiple,Momondo,9,3
+Helsinki,London Stansted,13:35:00,20:30:00,8h 55m,160.73999999999998,2,"[{'Duration': 2, 'Location': 'Stockholm Arlanda'}, {'Duration': 1, 'Location': 'Gdansk Rebiechowo'}]",Finnair,Momondo,8,3
+Helsinki,London Luton,06:20:00,12:45:00,8h 25m,171.07999999999998,1,"[{'Duration': 4, 'Location': 'Václav Havel Prague'}]",Finnair,Momondo,8,4
+Helsinki,London Luton,16:25:00,23:15:00,8h 50m,163.56,2,"[{'Duration': 1, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Dublin'}]",Scandinavian,Momondo,8,3
+Helsinki,London City,13:55:00,16:35:00,4h 40m,225.6,1,"[{'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,4,1
+Helsinki,London Heathrow,07:00:00,12:45:00,7h 45m,173.89999999999998,2,"[{'Duration': 1, 'Location': 'Munich Franz Josef Strauss'}, {'Duration': 0, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,7,1
+Helsinki,London Luton,05:20:00,10:30:00,7h 10m,163.56,2,"[{'Duration': 1, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",airBaltic,Momondo,7,2
+Helsinki,London City,13:55:00,19:35:00,7h 40m,178.6,1,"[{'Duration': 4, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,7,4
+Helsinki,London Heathrow,12:45:00,18:45:00,8h 00m,173.89999999999998,2,"[{'Duration': 1, 'Location': 'Munich Franz Josef Strauss'}, {'Duration': 0, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,8,1
+Helsinki,London Luton,15:30:00,21:15:00,7h 45m,184.23999999999998,2,"[{'Duration': 0, 'Location': 'Riga Intl'}, {'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",airBaltic,Momondo,7,2
+Helsinki,London Southend,05:20:00,11:30:00,8h 10m,152.28,2,"[{'Duration': 1, 'Location': 'Riga Intl'}, {'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",airBaltic,Momondo,8,3
+Helsinki,London Stansted,05:20:00,14:35:00,11h 15m,108.1,1,"[{'Duration': 7, 'Location': 'Riga Intl'}]",airBaltic,Momondo,11,7
+Helsinki,London Luton,08:40:00,17:35:00,10h 55m,138.17999999999998,2,"[{'Duration': 3, 'Location': 'Riga Intl'}, {'Duration': 2, 'Location': 'Václav Havel Prague'}]",airBaltic,Momondo,10,5
+Helsinki,London Luton,14:40:00,23:15:00,10h 35m,146.64,2,"[{'Duration': 2, 'Location': 'Tallinn Ulemiste'}, {'Duration': 3, 'Location': 'Dublin'}]",Finnair,Momondo,10,5
+Helsinki,London City,13:55:00,20:15:00,8h 20m,178.6,1,"[{'Duration': 4, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,8,4
+Helsinki,London Heathrow,10:40:00,17:00:00,8h 20m,178.6,1,"[{'Duration': 4, 'Location': 'Amsterdam Schiphol'}]",KLM,Momondo,8,4
+Helsinki,London Southend,14:10:00,19:45:00,7h 35m,194.57999999999998,2,"[{'Duration': 0, 'Location': 'Oslo Gardermoen'}, {'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",Norwegian,Momondo,7,2
+Helsinki,London Stansted,05:20:00,12:10:00,8h 50m,153.22,2,"[{'Duration': 3, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Gdansk Rebiechowo'}]",airBaltic,Momondo,8,4
+Helsinki,London Stansted,11:10:00,20:40:00,11h 30m,142.88,1,"[{'Duration': 6, 'Location': 'Bergamo Orio Al Serio'}]",Ryanair,Momondo,11,6
+Helsinki,London Southend,11:05:00,19:45:00,10h 40m,153.22,2,"[{'Duration': 4, 'Location': 'Oslo Gardermoen'}, {'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Momondo,10,5
+Helsinki,London Heathrow,07:25:00,17:00:00,11h 35m,165.44,1,"[{'Duration': 7, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Momondo,11,7
+Helsinki,London Heathrow,13:30:00,21:20:00,9h 50m,165.44,1,"[{'Duration': 6, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Momondo,9,6
+Helsinki,London Heathrow,10:15:00,19:55:00,11h 40m,165.44,1,"[{'Duration': 7, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Momondo,11,7
+Helsinki,London Luton,08:40:00,16:35:00,9h 55m,169.2,2,"[{'Duration': 1, 'Location': 'Riga Intl'}, {'Duration': 3, 'Location': 'Dublin'}]",airBaltic,Momondo,9,4
+Helsinki,London Gatwick,09:15:00,16:20:00,9h 05m,200.22,1,"[{'Duration': 5, 'Location': 'Stockholm Arlanda'}]",Norwegian,Momondo,9,5
+Helsinki,London Luton,10:05:00,16:30:00,8h 25m,167.32,2,"[{'Duration': 1, 'Location': 'Kastrup Copenhagen'}, {'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Momondo,8,3
+Helsinki,London Heathrow,10:05:00,16:45:00,8h 40m,214.32,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,8,3
+Helsinki,London Heathrow,10:05:00,16:45:00,8h 40m,214.32,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 0, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,8,2
+Helsinki,London City,10:05:00,18:35:00,10h 30m,187.06,2,"[{'Duration': 4, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Zurich'}]",SWISS,Momondo,10,5
+Helsinki,London Luton,05:20:00,11:25:00,8h 05m,180.48,2,"[{'Duration': 0, 'Location': 'Riga Intl'}, {'Duration': 2, 'Location': 'Berlin Brandenburg'}]",airBaltic,Momondo,8,2
+Helsinki,London Gatwick,16:25:00,21:45:00,7h 20m,191.76,2,"[{'Duration': 0, 'Location': 'Stockholm Arlanda'}, {'Duration': 2, 'Location': 'Kastrup Copenhagen'}]",Scandinavian,Momondo,7,2
+Helsinki,London Gatwick,10:05:00,17:10:00,9h 05m,214.32,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 2, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,9,4
+Helsinki,London Gatwick,10:05:00,17:10:00,9h 05m,214.32,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,9,3
+Helsinki,London Gatwick,10:05:00,17:10:00,9h 05m,214.32,2,"[{'Duration': 3, 'Location': 'Kastrup Copenhagen'}, {'Duration': 0, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,9,3
+Helsinki,London Heathrow,07:25:00,17:55:00,12h 30m,165.44,1,"[{'Duration': 8, 'Location': 'Stockholm Arlanda'}]",Scandinavian,Momondo,12,8
+Helsinki,London City,15:30:00,20:15:00,6h 45m,204.92,2,"[{'Duration': 0, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",airBaltic,Momondo,6,1
+Helsinki,London Gatwick,07:05:00,17:10:00,12h 05m,148.51999999999998,1,"[{'Duration': 7, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,12,7
+Helsinki,London Heathrow,15:30:00,21:40:00,8h 10m,201.16,2,"[{'Duration': 2, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Kastrup Copenhagen'}]",airBaltic,Momondo,8,3
+Helsinki,London Gatwick,07:40:00,16:20:00,10h 40m,201.16,1,"[{'Duration': 6, 'Location': 'Stockholm Arlanda'}]",Norwegian,Momondo,10,6
+Helsinki,London Heathrow,06:30:00,14:45:00,10h 15m,214.32,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 2, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,10,4
+Helsinki,London Luton,11:05:00,21:15:00,12h 10m,163.56,2,"[{'Duration': 4, 'Location': 'Oslo Gardermoen'}, {'Duration': 2, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Momondo,12,6
+Helsinki,London Heathrow,10:05:00,19:15:00,11h 10m,202.1,2,"[{'Duration': 4, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Zurich'}]",SWISS,Momondo,11,5
+Helsinki,London Gatwick,23:40:00,08:35:00,10h 55m,163.56,1,"[{'Duration': 7, 'Location': 'Stockholm Arlanda'}]",Finnair,Momondo,10,7
+Helsinki,London City,10:05:00,16:40:00,8h 35m,245.33999999999997,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,8,3
+Helsinki,London Luton,06:30:00,16:35:00,12h 05m,169.2,2,"[{'Duration': 3, 'Location': 'Kastrup Copenhagen'}, {'Duration': 3, 'Location': 'Dublin'}]",Scandinavian,Momondo,12,6
+Helsinki,London City,07:05:00,16:40:00,11h 35m,173.89999999999998,1,"[{'Duration': 7, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,11,7
+Helsinki,London Heathrow,07:05:00,15:45:00,10h 40m,194.57999999999998,1,"[{'Duration': 6, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,10,6
+Helsinki,London Heathrow,06:30:00,15:45:00,11h 15m,214.32,2,"[{'Duration': 2, 'Location': 'Kastrup Copenhagen'}, {'Duration': 3, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,11,5
+Helsinki,London City,07:05:00,17:40:00,12h 35m,173.89999999999998,1,"[{'Duration': 8, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,12,8
+Helsinki,London Southend,10:05:00,19:45:00,11h 40m,166.38,2,"[{'Duration': 1, 'Location': 'Kastrup Copenhagen'}, {'Duration': 5, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Momondo,11,6
+Helsinki,London Heathrow,07:00:00,14:45:00,9h 45m,218.07999999999998,2,"[{'Duration': 2, 'Location': 'Munich Franz Josef Strauss'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,9,3
+Helsinki,London Heathrow,07:00:00,14:45:00,9h 45m,218.07999999999998,2,"[{'Duration': 1, 'Location': 'Munich Franz Josef Strauss'}, {'Duration': 2, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,9,3
+Helsinki,London Luton,06:20:00,12:45:00,8h 25m,256.62,1,"[{'Duration': 4, 'Location': 'Václav Havel Prague'}]",CitizenPlane,Momondo,8,4
+Helsinki,London City,11:05:00,20:15:00,11h 10m,184.23999999999998,2,"[{'Duration': 4, 'Location': 'Oslo Gardermoen'}, {'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Momondo,11,5
+Helsinki,London Heathrow,12:45:00,20:45:00,10h 00m,218.07999999999998,2,"[{'Duration': 2, 'Location': 'Munich Franz Josef Strauss'}, {'Duration': 1, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,10,3
+Helsinki,London Heathrow,12:45:00,20:45:00,10h 00m,218.07999999999998,2,"[{'Duration': 1, 'Location': 'Munich Franz Josef Strauss'}, {'Duration': 2, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,10,3
+Helsinki,London Heathrow,07:05:00,16:45:00,11h 40m,194.57999999999998,1,"[{'Duration': 7, 'Location': 'Frankfurt am Main'}]",Lufthansa,Momondo,11,7
+Helsinki,London Stansted,05:20:00,11:40:00,8h 20m,198.33999999999997,3,"[{'Duration': 0, 'Location': 'Riga Intl'}, {'Duration': 1, 'Location': 'Oslo Gardermoen'}, {'Duration': 0, 'Location': 'Bergen Flesland'}]",Multiple,Momondo,8,1
+Helsinki,London Heathrow,06:30:00,10:30:00,6h 00m,316.78,1,"[{'Duration': 1, 'Location': 'Paris Charles de Gaulle'}]",Air,Momondo,6,1
+Helsinki,London City,10:15:00,19:35:00,11h 20m,188.94,2,"[{'Duration': 5, 'Location': 'Stockholm Arlanda'}, {'Duration': 1, 'Location': 'Amsterdam Schiphol'}]",Scandinavian,Momondo,11,6
+Helsinki,London Stansted,22:10:00,23:20:00,3h10m ,34.78,0,[],Ryanair,Skiplagged,3,0
+Helsinki,London Heathrow,11:05:00,16:25:00,7h20m ,48.879999999999995,1,"[{'Duration': 3, 'Location': 'OSLOslo'}]",Scandinavian,Skiplagged,7,3
+Helsinki,London Heathrow,11:05:00,18:30:00,9h25m ,48.879999999999995,1,"[{'Duration': 5, 'Location': 'OSLOslo'}]",Scandinavian,Skiplagged,9,5
+Helsinki,London Heathrow,11:05:00,14:35:00,5h30m ,49.82,1,"[{'Duration': 1, 'Location': 'OSLOslo'}]",Scandinavian,Skiplagged,5,1
+Helsinki,London Gatwick,09:50:00,11:00:00,3h10m ,54.519999999999996,0,[],Norwegian,Skiplagged,3,0
+Helsinki,London Heathrow,10:05:00,17:40:00,9h35m ,60.16,1,"[{'Duration': 5, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,9,5
+Helsinki,London Heathrow,11:05:00,21:35:00,12h30m ,66.74,1,"[{'Duration': 8, 'Location': 'OSLOslo'}]",Scandinavian,Skiplagged,12,8
+Helsinki,London Gatwick,14:10:00,08:40:00,20h30m ,69.56,1,"[{'Duration': 16, 'Location': 'OSLOslo'}]",Norwegian,Skiplagged,20,16
+Helsinki,London Gatwick,14:10:00,16:55:00,4h45m ,74.25999999999999,1,[],Norwegian,Skiplagged,4,0
+Helsinki,London Heathrow,18:20:00,21:40:00,5h20m ,78.02,1,"[{'Duration': 1, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,5,1
+Helsinki,London Heathrow,10:05:00,16:00:00,7h55m ,78.02,1,[],Scandinavian,Skiplagged,7,0
+Helsinki,London Gatwick,08:40:00,08:40:00,26h ,78.02,1,[],Air,Skiplagged,26,0
+Helsinki,London Gatwick,05:20:00,08:40:00,5h20m ,78.96,1,"[{'Duration': 1, 'Location': 'RIXRiga'}]",Air,Skiplagged,5,1
+Helsinki,London Gatwick,08:40:00,16:45:00,10h5m ,78.96,1,"[{'Duration': 6, 'Location': 'RIXRiga'}]",Air,Skiplagged,10,6
+Helsinki,London Gatwick,05:20:00,16:45:00,13h25m ,78.96,1,"[{'Duration': 9, 'Location': 'RIXRiga'}]",Air,Skiplagged,13,9
+Helsinki,London Gatwick,21:20:00,08:40:00,13h20m ,78.96,1,"[{'Duration': 9, 'Location': 'RIXRiga'}]",Air,Skiplagged,13,9
+Helsinki,London Gatwick,15:30:00,08:40:00,19h10m ,78.96,1,"[{'Duration': 15, 'Location': 'RIXRiga'}]",Air,Skiplagged,19,15
+Helsinki,London Stansted,22:10:00,23:20:00,3h10m ,34.78,0,[],Ryanair,Skiplagged,3,0
+Helsinki,London Heathrow,11:05:00,16:25:00,7h20m ,48.879999999999995,1,"[{'Duration': 3, 'Location': 'OSLOslo'}]",Scandinavian,Skiplagged,7,3
+Helsinki,London Heathrow,11:05:00,18:30:00,9h25m ,48.879999999999995,1,"[{'Duration': 5, 'Location': 'OSLOslo'}]",Scandinavian,Skiplagged,9,5
+Helsinki,London Heathrow,11:05:00,14:35:00,5h30m ,49.82,1,"[{'Duration': 1, 'Location': 'OSLOslo'}]",Scandinavian,Skiplagged,5,1
+Helsinki,London Gatwick,09:50:00,11:00:00,3h10m ,54.519999999999996,0,[],Norwegian,Skiplagged,3,0
+Helsinki,London Heathrow,10:05:00,17:40:00,9h35m ,60.16,1,"[{'Duration': 5, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,9,5
+Helsinki,London Heathrow,11:05:00,21:35:00,12h30m ,66.74,1,"[{'Duration': 8, 'Location': 'OSLOslo'}]",Scandinavian,Skiplagged,12,8
+Helsinki,London Gatwick,14:10:00,08:40:00,20h30m ,69.56,1,"[{'Duration': 16, 'Location': 'OSLOslo'}]",Norwegian,Skiplagged,20,16
+Helsinki,London Gatwick,14:10:00,16:55:00,4h45m ,74.25999999999999,1,[],Norwegian,Skiplagged,4,0
+Helsinki,London Heathrow,18:20:00,21:40:00,5h20m ,78.02,1,"[{'Duration': 1, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,5,1
+Helsinki,London Heathrow,10:05:00,16:00:00,7h55m ,78.02,1,[],Scandinavian,Skiplagged,7,0
+Helsinki,London Gatwick,08:40:00,08:40:00,26h ,78.02,1,[],Air,Skiplagged,26,0
+Helsinki,London Gatwick,05:20:00,08:40:00,5h20m ,78.96,1,"[{'Duration': 1, 'Location': 'RIXRiga'}]",Air,Skiplagged,5,1
+Helsinki,London Gatwick,08:40:00,16:45:00,10h5m ,78.96,1,"[{'Duration': 6, 'Location': 'RIXRiga'}]",Air,Skiplagged,10,6
+Helsinki,London Gatwick,05:20:00,16:45:00,13h25m ,78.96,1,"[{'Duration': 9, 'Location': 'RIXRiga'}]",Air,Skiplagged,13,9
+Helsinki,London Gatwick,21:20:00,08:40:00,13h20m ,78.96,1,"[{'Duration': 9, 'Location': 'RIXRiga'}]",Air,Skiplagged,13,9
+Helsinki,London Gatwick,15:30:00,08:40:00,19h10m ,78.96,1,"[{'Duration': 15, 'Location': 'RIXRiga'}]",Air,Skiplagged,19,15
+Helsinki,London Gatwick,14:10:00,20:10:00,8h ,82.72,1,[],Norwegian,Skiplagged,8,0
+Helsinki,London Stansted,11:10:00,07:05:00,21h55m ,85.53999999999999,1,"[{'Duration': 16, 'Location': 'BGYMilan'}]",Ryanair,Skiplagged,21,16
+Helsinki,London Stansted,21:20:00,22:50:00,27h30m ,85.53999999999999,2,"[{'Duration': 20, 'Location': 'RIXRiga'}, {'Duration': 2, 'Location': 'OSLOslo'}]",Air,Skiplagged,27,22
+Helsinki,London Stansted,07:55:00,23:10:00,17h15m ,86.47999999999999,1,"[{'Duration': 12, 'Location': 'RVNRovaniemi'}]",Norwegian,Skiplagged,17,12
+Helsinki,London Stansted,19:45:00,23:30:00,29h45m ,95.88,2,"[{'Duration': 10, 'Location': 'ARNStockholm'}, {'Duration': 15, 'Location': 'GOTGothenburg'}]",Norwegian,Skiplagged,29,25
+Helsinki,London Stansted,16:40:00,23:30:00,32h50m ,95.88,2,"[{'Duration': 13, 'Location': 'ARNStockholm'}, {'Duration': 15, 'Location': 'GOTGothenburg'}]",Norwegian,Skiplagged,32,28
+Helsinki,London Stansted,09:15:00,23:30:00,40h15m ,95.88,2,"[{'Duration': 20, 'Location': 'ARNStockholm'}, {'Duration': 15, 'Location': 'GOTGothenburg'}]",Norwegian,Skiplagged,40,35
+Helsinki,London Stansted,07:40:00,23:30:00,41h50m ,95.88,2,"[{'Duration': 22, 'Location': 'ARNStockholm'}, {'Duration': 15, 'Location': 'GOTGothenburg'}]",Norwegian,Skiplagged,41,37
+Helsinki,London Stansted,09:15:00,07:40:00,24h25m ,96.82,2,"[{'Duration': 7, 'Location': 'ARNStockholm'}, {'Duration': 12, 'Location': 'GDNGdańsk'}]",Norwegian,Skiplagged,24,19
+Helsinki,London Heathrow,19:45:00,21:35:00,27h50m ,97.75999999999999,2,"[{'Duration': 20, 'Location': 'ARNStockholm'}, {'Duration': 3, 'Location': 'OSLOslo'}]",Norwegian,Skiplagged,27,23
+Helsinki,London Heathrow,10:05:00,16:00:00,7h55m ,78.02,1,[],Scandinavian,Skiplagged,7,0
+Helsinki,London Gatwick,08:40:00,08:40:00,26h ,78.02,1,[],Air,Skiplagged,26,0
+Helsinki,London Gatwick,05:20:00,08:40:00,5h20m ,78.96,1,"[{'Duration': 1, 'Location': 'RIXRiga'}]",Air,Skiplagged,5,1
+Helsinki,London Gatwick,08:40:00,16:45:00,10h5m ,78.96,1,"[{'Duration': 6, 'Location': 'RIXRiga'}]",Air,Skiplagged,10,6
+Helsinki,London Gatwick,05:20:00,16:45:00,13h25m ,78.96,1,"[{'Duration': 9, 'Location': 'RIXRiga'}]",Air,Skiplagged,13,9
+Helsinki,London Gatwick,21:20:00,08:40:00,13h20m ,78.96,1,"[{'Duration': 9, 'Location': 'RIXRiga'}]",Air,Skiplagged,13,9
+Helsinki,London Gatwick,15:30:00,08:40:00,19h10m ,78.96,1,"[{'Duration': 15, 'Location': 'RIXRiga'}]",Air,Skiplagged,19,15
+Helsinki,London Gatwick,14:10:00,20:10:00,8h ,82.72,1,[],Norwegian,Skiplagged,8,0
+Helsinki,London Stansted,11:10:00,07:05:00,21h55m ,85.53999999999999,1,"[{'Duration': 16, 'Location': 'BGYMilan'}]",Ryanair,Skiplagged,21,16
+Helsinki,London Stansted,21:20:00,22:50:00,27h30m ,85.53999999999999,2,"[{'Duration': 20, 'Location': 'RIXRiga'}, {'Duration': 2, 'Location': 'OSLOslo'}]",Air,Skiplagged,27,22
+Helsinki,London Stansted,07:55:00,23:10:00,17h15m ,86.47999999999999,1,"[{'Duration': 12, 'Location': 'RVNRovaniemi'}]",Norwegian,Skiplagged,17,12
+Helsinki,London Stansted,19:45:00,23:30:00,29h45m ,95.88,2,"[{'Duration': 10, 'Location': 'ARNStockholm'}, {'Duration': 15, 'Location': 'GOTGothenburg'}]",Norwegian,Skiplagged,29,25
+Helsinki,London Stansted,16:40:00,23:30:00,32h50m ,95.88,2,"[{'Duration': 13, 'Location': 'ARNStockholm'}, {'Duration': 15, 'Location': 'GOTGothenburg'}]",Norwegian,Skiplagged,32,28
+Helsinki,London Stansted,09:15:00,23:30:00,40h15m ,95.88,2,"[{'Duration': 20, 'Location': 'ARNStockholm'}, {'Duration': 15, 'Location': 'GOTGothenburg'}]",Norwegian,Skiplagged,40,35
+Helsinki,London Stansted,07:40:00,23:30:00,41h50m ,95.88,2,"[{'Duration': 22, 'Location': 'ARNStockholm'}, {'Duration': 15, 'Location': 'GOTGothenburg'}]",Norwegian,Skiplagged,41,37
+Helsinki,London Stansted,09:15:00,07:40:00,24h25m ,96.82,2,"[{'Duration': 7, 'Location': 'ARNStockholm'}, {'Duration': 12, 'Location': 'GDNGdańsk'}]",Norwegian,Skiplagged,24,19
+Helsinki,London Heathrow,19:45:00,21:35:00,27h50m ,97.75999999999999,2,"[{'Duration': 20, 'Location': 'ARNStockholm'}, {'Duration': 3, 'Location': 'OSLOslo'}]",Norwegian,Skiplagged,27,23
+Helsinki,London Stansted,08:40:00,14:35:00,7h55m ,98.69999999999999,1,[],Air,Skiplagged,7,0
+Helsinki,London Gatwick,09:15:00,08:35:00,25h20m ,99.64,1,"[{'Duration': 21, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,25,21
+Helsinki,London Gatwick,16:40:00,16:20:00,25h40m ,99.64,1,"[{'Duration': 22, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,25,22
+Helsinki,London Gatwick,07:40:00,08:35:00,26h55m ,99.64,1,"[{'Duration': 23, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,26,23
+Helsinki,London Heathrow,19:45:00,21:20:00,27h35m ,99.64,1,"[{'Duration': 23, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,27,23
+Helsinki,London Gatwick,19:45:00,08:35:00,14h50m ,100.58,1,"[{'Duration': 11, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,14,11
+Helsinki,London Gatwick,16:40:00,08:35:00,17h55m ,100.58,1,"[{'Duration': 14, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,17,14
+Helsinki,London Gatwick,19:45:00,16:20:00,22h35m ,100.58,1,[],Norwegian,Skiplagged,22,0
+Helsinki,London Heathrow,10:05:00,19:30:00,11h25m ,103.39999999999999,1,"[{'Duration': 7, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,11,7
+Helsinki,London Heathrow,06:30:00,17:40:00,13h10m ,103.39999999999999,1,"[{'Duration': 9, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,13,9
+Helsinki,London Heathrow,10:05:00,21:40:00,13h35m ,103.39999999999999,1,"[{'Duration': 9, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,13,9
+Helsinki,London Stansted,19:45:00,23:30:00,29h45m ,95.88,2,"[{'Duration': 10, 'Location': 'ARNStockholm'}, {'Duration': 15, 'Location': 'GOTGothenburg'}]",Norwegian,Skiplagged,29,25
+Helsinki,London Stansted,16:40:00,23:30:00,32h50m ,95.88,2,"[{'Duration': 13, 'Location': 'ARNStockholm'}, {'Duration': 15, 'Location': 'GOTGothenburg'}]",Norwegian,Skiplagged,32,28
+Helsinki,London Stansted,09:15:00,23:30:00,40h15m ,95.88,2,"[{'Duration': 20, 'Location': 'ARNStockholm'}, {'Duration': 15, 'Location': 'GOTGothenburg'}]",Norwegian,Skiplagged,40,35
+Helsinki,London Stansted,07:40:00,23:30:00,41h50m ,95.88,2,"[{'Duration': 22, 'Location': 'ARNStockholm'}, {'Duration': 15, 'Location': 'GOTGothenburg'}]",Norwegian,Skiplagged,41,37
+Helsinki,London Stansted,09:15:00,07:40:00,24h25m ,96.82,2,"[{'Duration': 7, 'Location': 'ARNStockholm'}, {'Duration': 12, 'Location': 'GDNGdańsk'}]",Norwegian,Skiplagged,24,19
+Helsinki,London Heathrow,19:45:00,21:35:00,27h50m ,97.75999999999999,2,"[{'Duration': 20, 'Location': 'ARNStockholm'}, {'Duration': 3, 'Location': 'OSLOslo'}]",Norwegian,Skiplagged,27,23
+Helsinki,London Stansted,08:40:00,14:35:00,7h55m ,98.69999999999999,1,[],Air,Skiplagged,7,0
+Helsinki,London Gatwick,09:15:00,08:35:00,25h20m ,99.64,1,"[{'Duration': 21, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,25,21
+Helsinki,London Gatwick,16:40:00,16:20:00,25h40m ,99.64,1,"[{'Duration': 22, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,25,22
+Helsinki,London Gatwick,07:40:00,08:35:00,26h55m ,99.64,1,"[{'Duration': 23, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,26,23
+Helsinki,London Heathrow,19:45:00,21:20:00,27h35m ,99.64,1,"[{'Duration': 23, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,27,23
+Helsinki,London Gatwick,19:45:00,08:35:00,14h50m ,100.58,1,"[{'Duration': 11, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,14,11
+Helsinki,London Gatwick,16:40:00,08:35:00,17h55m ,100.58,1,"[{'Duration': 14, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,17,14
+Helsinki,London Gatwick,19:45:00,16:20:00,22h35m ,100.58,1,[],Norwegian,Skiplagged,22,0
+Helsinki,London Heathrow,10:05:00,19:30:00,11h25m ,103.39999999999999,1,"[{'Duration': 7, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,11,7
+Helsinki,London Heathrow,06:30:00,17:40:00,13h10m ,103.39999999999999,1,"[{'Duration': 9, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,13,9
+Helsinki,London Heathrow,10:05:00,21:40:00,13h35m ,103.39999999999999,1,"[{'Duration': 9, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,13,9
+Helsinki,London Heathrow,06:30:00,19:30:00,15h ,103.39999999999999,1,"[{'Duration': 11, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,15,11
+Helsinki,London Heathrow,06:30:00,21:40:00,17h10m ,103.39999999999999,1,"[{'Duration': 13, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,17,13
+Helsinki,London Luton,16:40:00,07:50:00,17h10m ,106.22,2,[],Norwegian,Skiplagged,17,0
+Helsinki,London Luton,09:15:00,07:50:00,24h35m ,106.22,2,"[{'Duration': 7, 'Location': 'ARNStockholm'}, {'Duration': 12, 'Location': 'GDNGdańsk'}]",Norwegian,Skiplagged,24,19
+Helsinki,London Stansted,05:20:00,12:25:00,9h5m ,107.16,1,"[{'Duration': 5, 'Location': 'RIXRiga'}]",Air,Skiplagged,9,5
+Helsinki,London Luton,07:55:00,23:15:00,17h20m ,107.16,2,"[{'Duration': 8, 'Location': 'DUBDublin'}]",Norwegian,Skiplagged,17,8
+Helsinki,London Heathrow,19:35:00,20:40:00,3h5m ,108.1,0,[],Finnair,Skiplagged,3,0
+Helsinki,London Heathrow,14:10:00,21:35:00,9h25m ,108.1,1,"[{'Duration': 5, 'Location': 'OSLOslo'}]",Norwegian,Skiplagged,9,5
+Helsinki,London Stansted,05:20:00,14:35:00,11h15m ,108.1,1,"[{'Duration': 7, 'Location': 'RIXRiga'}]",Air,Skiplagged,11,7
+Helsinki,London Stansted,22:45:00,23:00:00,26h15m ,108.1,1,"[{'Duration': 22, 'Location': 'CPHCopenhagen'}]",Finnair,Skiplagged,26,22
+Helsinki,London Heathrow,19:45:00,19:30:00,25h45m ,109.03999999999999,2,"[{'Duration': 20, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,25,20
+Helsinki,London Gatwick,19:45:00,08:35:00,14h50m ,100.58,1,"[{'Duration': 11, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,14,11
+Helsinki,London Gatwick,16:40:00,08:35:00,17h55m ,100.58,1,"[{'Duration': 14, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,17,14
+Helsinki,London Gatwick,19:45:00,16:20:00,22h35m ,100.58,1,[],Norwegian,Skiplagged,22,0
+Helsinki,London Heathrow,10:05:00,19:30:00,11h25m ,103.39999999999999,1,"[{'Duration': 7, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,11,7
+Helsinki,London Heathrow,06:30:00,17:40:00,13h10m ,103.39999999999999,1,"[{'Duration': 9, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,13,9
+Helsinki,London Heathrow,10:05:00,21:40:00,13h35m ,103.39999999999999,1,"[{'Duration': 9, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,13,9
+Helsinki,London Heathrow,06:30:00,19:30:00,15h ,103.39999999999999,1,"[{'Duration': 11, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,15,11
+Helsinki,London Heathrow,06:30:00,21:40:00,17h10m ,103.39999999999999,1,"[{'Duration': 13, 'Location': 'CPHCopenhagen'}]",Scandinavian,Skiplagged,17,13
+Helsinki,London Luton,16:40:00,07:50:00,17h10m ,106.22,2,[],Norwegian,Skiplagged,17,0
+Helsinki,London Luton,09:15:00,07:50:00,24h35m ,106.22,2,"[{'Duration': 7, 'Location': 'ARNStockholm'}, {'Duration': 12, 'Location': 'GDNGdańsk'}]",Norwegian,Skiplagged,24,19
+Helsinki,London Stansted,05:20:00,12:25:00,9h5m ,107.16,1,"[{'Duration': 5, 'Location': 'RIXRiga'}]",Air,Skiplagged,9,5
+Helsinki,London Luton,07:55:00,23:15:00,17h20m ,107.16,2,"[{'Duration': 8, 'Location': 'DUBDublin'}]",Norwegian,Skiplagged,17,8
+Helsinki,London Heathrow,19:35:00,20:40:00,3h5m ,108.1,0,[],Finnair,Skiplagged,3,0
+Helsinki,London Heathrow,14:10:00,21:35:00,9h25m ,108.1,1,"[{'Duration': 5, 'Location': 'OSLOslo'}]",Norwegian,Skiplagged,9,5
+Helsinki,London Stansted,05:20:00,14:35:00,11h15m ,108.1,1,"[{'Duration': 7, 'Location': 'RIXRiga'}]",Air,Skiplagged,11,7
+Helsinki,London Stansted,22:45:00,23:00:00,26h15m ,108.1,1,"[{'Duration': 22, 'Location': 'CPHCopenhagen'}]",Finnair,Skiplagged,26,22
+Helsinki,London Heathrow,19:45:00,19:30:00,25h45m ,109.03999999999999,2,"[{'Duration': 20, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,25,20
+Helsinki,London Luton,06:30:00,23:15:00,18h45m ,109.97999999999999,2,"[{'Duration': 10, 'Location': 'DUBDublin'}]",Scandinavian,Skiplagged,18,10
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 4, 'Location': 'OSLOslo'}, {'Duration': 23, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,27
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 17, 'Location': 'OSLOslo'}, {'Duration': 10, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,27
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 16, 'Location': 'OSLOslo'}, {'Duration': 11, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,27
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 22, 'Location': 'OSLOslo'}, {'Duration': 4, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,26
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 21, 'Location': 'OSLOslo'}, {'Duration': 6, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,27
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 20, 'Location': 'OSLOslo'}, {'Duration': 7, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,27
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 18, 'Location': 'OSLOslo'}, {'Duration': 9, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,27
+Helsinki,London Stansted,16:25:00,23:10:00,8h45m ,110.91999999999999,2,"[{'Duration': 3, 'Location': 'BLLBillund'}]",Scandinavian,Skiplagged,8,3
+Helsinki,London Luton,08:40:00,23:15:00,16h35m ,110.91999999999999,2,"[{'Duration': 1, 'Location': 'RIXRiga'}, {'Duration': 9, 'Location': 'DUBDublin'}]",Air,Skiplagged,16,10
+Helsinki,London Gatwick,19:45:00,12:20:00,18h35m ,110.91999999999999,1,[],Norwegian,Skiplagged,18,0
+Helsinki,London Luton,07:55:00,23:15:00,17h20m ,107.16,2,"[{'Duration': 8, 'Location': 'DUBDublin'}]",Norwegian,Skiplagged,17,8
+Helsinki,London Heathrow,19:35:00,20:40:00,3h5m ,108.1,0,[],Finnair,Skiplagged,3,0
+Helsinki,London Heathrow,14:10:00,21:35:00,9h25m ,108.1,1,"[{'Duration': 5, 'Location': 'OSLOslo'}]",Norwegian,Skiplagged,9,5
+Helsinki,London Stansted,05:20:00,14:35:00,11h15m ,108.1,1,"[{'Duration': 7, 'Location': 'RIXRiga'}]",Air,Skiplagged,11,7
+Helsinki,London Stansted,22:45:00,23:00:00,26h15m ,108.1,1,"[{'Duration': 22, 'Location': 'CPHCopenhagen'}]",Finnair,Skiplagged,26,22
+Helsinki,London Heathrow,19:45:00,19:30:00,25h45m ,109.03999999999999,2,"[{'Duration': 20, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,25,20
+Helsinki,London Luton,06:30:00,23:15:00,18h45m ,109.97999999999999,2,"[{'Duration': 10, 'Location': 'DUBDublin'}]",Scandinavian,Skiplagged,18,10
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 4, 'Location': 'OSLOslo'}, {'Duration': 23, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,27
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 17, 'Location': 'OSLOslo'}, {'Duration': 10, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,27
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 16, 'Location': 'OSLOslo'}, {'Duration': 11, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,27
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 22, 'Location': 'OSLOslo'}, {'Duration': 4, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,26
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 21, 'Location': 'OSLOslo'}, {'Duration': 6, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,27
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 20, 'Location': 'OSLOslo'}, {'Duration': 7, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,27
+Helsinki,London Gatwick,14:10:00,20:05:00,31h55m ,109.97999999999999,2,"[{'Duration': 18, 'Location': 'OSLOslo'}, {'Duration': 9, 'Location': 'SVGStavanger'}]",Norwegian,Skiplagged,31,27
+Helsinki,London Stansted,16:25:00,23:10:00,8h45m ,110.91999999999999,2,"[{'Duration': 3, 'Location': 'BLLBillund'}]",Scandinavian,Skiplagged,8,3
+Helsinki,London Luton,08:40:00,23:15:00,16h35m ,110.91999999999999,2,"[{'Duration': 1, 'Location': 'RIXRiga'}, {'Duration': 9, 'Location': 'DUBDublin'}]",Air,Skiplagged,16,10
+Helsinki,London Gatwick,19:45:00,12:20:00,18h35m ,110.91999999999999,1,[],Norwegian,Skiplagged,18,0
+Helsinki,London Gatwick,16:40:00,12:20:00,21h40m ,110.91999999999999,1,"[{'Duration': 18, 'Location': 'ARNStockholm'}]",Norwegian,Skiplagged,21,18
+Helsinki,London Stansted,14:10:00,23:10:00,11h ,112.8,2,"[{'Duration': 3, 'Location': 'OSLOslo'}, {'Duration': 3, 'Location': 'BLLBillund'}]",Norwegian,Skiplagged,11,6
+Helsinki,London Stansted,07:05:00,23:10:00,18h5m ,112.8,1,"[{'Duration': 13, 'Location': 'RVNRovaniemi'}]",Finnair,Skiplagged,18,13
+Helsinki,London Gatwick,07:40:00,16:55:00,11h15m ,113.74,2,"[{'Duration': 1, 'Location': 'ARNStockholm'}, {'Duration': 5, 'Location': 'OSLOslo'}]",Norwegian,Skiplagged,11,6
+Helsinki,London Heathrow,19:45:00,16:25:00,22h40m ,113.74,2,"[{'Duration': 16, 'Location': 'ARNStockholm'}, {'Duration': 1, 'Location': 'OSLOslo'}]",Norwegian,Skiplagged,22,17
